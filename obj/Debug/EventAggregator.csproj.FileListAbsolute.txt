@@ -1,0 +1,6 @@
+D:\Khalifeh\Archive\kh\task1\EventAggregator\EventAggregator\bin\Debug\EventAggregator.exe.config
+D:\Khalifeh\Archive\kh\task1\EventAggregator\EventAggregator\bin\Debug\EventAggregator.exe
+D:\Khalifeh\Archive\kh\task1\EventAggregator\EventAggregator\bin\Debug\EventAggregator.pdb
+D:\Khalifeh\Archive\kh\task1\EventAggregator\EventAggregator\obj\Debug\EventAggregator.csprojResolveAssemblyReference.cache
+D:\Khalifeh\Archive\kh\task1\EventAggregator\EventAggregator\obj\Debug\EventAggregator.exe
+D:\Khalifeh\Archive\kh\task1\EventAggregator\EventAggregator\obj\Debug\EventAggregator.pdb
